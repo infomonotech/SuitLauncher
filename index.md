@@ -1,7 +1,7 @@
 ## Suit Launcher
 
 The highly customizable, performance driven, home screen
-Accept no substitutes! Nova Launcher is the top launcher for modern Android, embracing full Material Design throughout.
+Accept no substitutes! Suit Launcher is the top launcher for modern Android, embracing full Material Design throughout.
 
 Suit Launcher replaces your home screen with one you control and can customize. Change icons, layouts, animations and more.
 
