@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Suit Launcher
 
-You can use the [editor on GitHub](https://github.com/infomonotech/SuitLauncher/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The highly customizable, performance driven, home screen
+Accept no substitutes! Nova Launcher is the top launcher for modern Android, embracing full Material Design throughout.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Suit Launcher replaces your home screen with one you control and can customize. Change icons, layouts, animations and more.
 
-### Markdown
+## Key Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Universal Search
+Search inside all of your apps in one place. Let us do the hard work for you!
 
-```markdown
-Syntax highlighted code block
+#### Quick Navigation 
+Not in the mood to use our lightning-fast search? Swipe up for instant access to all of your apps instead.
 
-# Header 1
-## Header 2
-### Header 3
+#### Custom Shortcuts
+Long press on search results to create custom shortcuts. Need to “Call dad” in a jiffy? Make it a shortcut!
 
-- Bulleted
-- List
+#### Personalization
+Import and customize layout, wallpaper, icon size, app icons, icon size, or start from scratch! You are unique, and we think your home screen should be too. [1]
 
-1. Numbered
-2. List
+[1] For the double-tap to lock feature, the 'Instant Lock' option uses the Device Administrator permission. The 'Time Lock' option requires no additional permissions. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/infomonotech/SuitLauncher/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
